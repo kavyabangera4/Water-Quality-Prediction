@@ -30,7 +30,7 @@ turbidity, potability, and other contaminants.
  
  ---
 
- 📸 Screenshots
+ **📸 Screenshots**
  <img width="960" alt="image" src="https://github.com/user-attachments/assets/d27d49ec-f1ed-47f9-9b4c-8090b0dded84" />
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/a2d5e91f-9da7-4cb5-8924-18afe224fa6a" />
