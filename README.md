@@ -6,25 +6,13 @@ turbidity, potability, and other contaminants.
 
 ---
 
- ## 🗂️ Project Structure
-
-Codes/
-├── app.py             # Main application file (Flask backend)
-├── data.py            # Data for rendering attractions
-├── templates/
-│   ├── base.html      # Base template layout
-│   ├── index.html     # Homepage template
-│   ├── place.html     # Individual attraction pages
-└── __pycache__/       # Python cache files
-
- ---
 
  ## 🚀 How to Run
  
  1. **Clone the Repository**:  
     ```bash
-    git clone https://github.com/codemy3/pilikula.git
-    cd pilikula
+    git clone https://github.com/kavyabangera4/Water-Quality-Prediction.git
+    cd Water-Quality-Prediction
     ```
  
  2. **Install Dependencies**:  
