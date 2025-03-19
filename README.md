@@ -29,3 +29,6 @@ turbidity, potability, and other contaminants.
     Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) to explore the application.
  
  ---
+
+ <img width="960" alt="image" src="https://github.com/user-attachments/assets/d27d49ec-f1ed-47f9-9b4c-8090b0dded84" />
+
