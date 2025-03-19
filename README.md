@@ -30,5 +30,12 @@ turbidity, potability, and other contaminants.
  
  ---
 
+ 📸 Screenshots
  <img width="960" alt="image" src="https://github.com/user-attachments/assets/d27d49ec-f1ed-47f9-9b4c-8090b0dded84" />
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a2d5e91f-9da7-4cb5-8924-18afe224fa6a" />
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/8daa2083-c642-4e86-8e7b-34aef82127fb" />
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/d6f75598-a3e4-4c31-ac0e-97a99b504fc9" />
+
+
 
