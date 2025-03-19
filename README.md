@@ -8,14 +8,14 @@ turbidity, potability, and other contaminants.
 
  ## 🗂️ Project Structure
 
-pilikula/
- ├── app.py             # Main application file (Flask backend)
- ├── data.py            # Data for rendering 
- ├── templates/
- │   ├── index.html      # Homepage template
- │   ├── form.html     # Form Page
- │   ├── output.html     # Output Page
- └── __pycache__/       # Python cache files
+Codes/
+├── app.py             # Main application file (Flask backend)
+├── data.py            # Data for rendering attractions
+├── templates/
+│   ├── base.html      # Base template layout
+│   ├── index.html     # Homepage template
+│   ├── place.html     # Individual attraction pages
+└── __pycache__/       # Python cache files
 
  ---
 
